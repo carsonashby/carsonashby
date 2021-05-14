@@ -1,16 +1,15 @@
-### Hi there 👋
+Hey there! I'm Carson (He/Him).
+👨🏻‍💻  About Me
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🎓   Studying Computer Science and Data science at Lambda School.
+💼   Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+🌱   Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+✍️   Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+🛠  Tech Stack
+💻   Python
+🛢   MySQL MongoDB
+⚙️   Git GitHub Markdown
+🔧   Visual Studio Code
 
-<!--
-**carsonashby/carsonashby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+🤝🏻  Connect with MeLinkedIn Email
