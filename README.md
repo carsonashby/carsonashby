@@ -23,4 +23,5 @@ Hey there! I'm Carson (He/Him).
 🔧   Visual Studio Code
 
 🤝🏻  Connect with Me
-LinkedIn Email
+
+carsonjamesashby@gmail.com   https://www.linkedin.com/in/carson-james-ashby/
